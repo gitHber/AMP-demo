@@ -1,4 +1,3 @@
-# AMP-demo
 ## 什么是AMP?
 > AMP(Accelerated Mobile Pages) 移动页面加速，是Google启动的一个加快移动页面加载速度的项目。
 
