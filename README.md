@@ -15,3 +15,4 @@
 像以上的两条就属于AMP的运作原理，基于此原理，AMP开发出了一套自己的组件，如amp-img代替img等，从而实现对页面的优化，加速页面渲染。
 
 **[官网介绍](https://www.ampproject.org/zh_cn/learn/about-how/)**
+[demo](./index.amp.html)
